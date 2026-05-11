@@ -22,14 +22,14 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "prod-d1-tutorial",
-      "database_id": "<unique-ID-for-your-database>"
+      "database_name": "forum",
+      "database_id": "1a8b40aa-aab1-413a-889c-67b060747f13"
     }
   ],
   "kv_namespaces": [
     {
       "binding": "KV",
-      "id": "<BINDING_ID>"
+      "id": "d467334de0aa4bd58910c266f8ac0233"
     }
   ]
 }
